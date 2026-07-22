@@ -27,7 +27,7 @@ Each time the player rolls the dice, two random dice values are generated. The g
 
 ## 📸 Preview
 
-![Dice Challenge Screenshot](./screen.png)
+![Dice Challenge Screenshot](screen.png)
 
 ---
 
