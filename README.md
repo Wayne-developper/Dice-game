@@ -6,6 +6,10 @@ Each time the player rolls the dice, two random dice values are generated. The g
 
 ---
 
+## Live Demo
+
+[Play the Dices game](https://wayne-developper.github.io/Drum-kit/)
+
 ## 🚀 Features
 
 - 🎲 Random dice generation
